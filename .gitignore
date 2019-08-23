@@ -98,4 +98,5 @@ $RECYCLE.BIN/
 .git
 vendor
 .env
+test
 
