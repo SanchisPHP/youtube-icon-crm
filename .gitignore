@@ -96,4 +96,5 @@ $RECYCLE.BIN/
 *.lnk
 .idea
 .git
+vendor
 

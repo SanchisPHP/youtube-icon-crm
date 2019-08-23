@@ -1,0 +1,33 @@
+{
+  "name": "youtube-icon/crm",
+  "description": "\nImage Store Management System",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Pokatsky",
+      "email": "weabdizain@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.2",
+    "illuminate/database": "v5.8.33",
+    "illuminate/session": "v5.8.33",
+    "google/apiclient": "v2.2.3",
+    "twig/twig": "v2.11.3",
+    "phpmailer/phpmailer": "v6.0.7",
+    "mbostock/d3": "v3.5.17",
+    "twbs/bootstrap": "v4.3.1"
+  },
+  "require-dev": {
+    "vlucas/phpdotenv": "v3.3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Solar\\Panels\\Controllers\\": "src/controllers/",
+      "Solar\\Panels\\Models\\": "src/models/",
+      "Solar\\Panels\\": "src/"
+    }
+  }
+}
