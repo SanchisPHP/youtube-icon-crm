@@ -28,10 +28,6 @@
       "Specialist\\System\\Controllers\\": "src/controllers/",
       "Specialist\\System\\Models\\": "src/models/",
       "Specialist\\System\\": "src/"
-    },
-    "psr-0": {
-      "Specialist\\System\\Plugins\\": "src/plugins/",
-      "Specialist\\System\\Modules\\": "src/modules/"
     }
   }
 }
