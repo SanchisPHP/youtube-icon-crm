@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Solar\Panels\Models;
+namespace Specialist\System\Models;
 
 
 use Illuminate\Database\Eloquent\Model;

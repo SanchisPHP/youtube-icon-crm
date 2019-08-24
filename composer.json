@@ -25,9 +25,9 @@
   },
   "autoload": {
     "psr-4": {
-      "Solar\\Panels\\Controllers\\": "src/controllers/",
-      "Solar\\Panels\\Models\\": "src/models/",
-      "Solar\\Panels\\": "src/"
+      "Specialist\\System\\Controllers\\": "src/controllers/",
+      "Specialist\\System\\Models\\": "src/models/",
+      "Specialist\\System\\": "src/"
     }
   }
 }

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Solar\Panels;
+namespace Specialist\System;
 
 use Dotenv\Dotenv;
-use Solar\Panels\Models\OptionsModel;
+use Specialist\System\Models\OptionsModel;
 
 /**
  * Выборка конфигурации ресурса

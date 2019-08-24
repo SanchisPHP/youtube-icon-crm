@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Solar\Panels;
+namespace Specialist\System;
 
 use Illuminate\Database\Capsule\Manager as Capsule;
 use Illuminate\Events\Dispatcher;
