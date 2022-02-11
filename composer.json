@@ -15,7 +15,7 @@
     "illuminate/database": "v5.8.33",
     "illuminate/session": "v5.8.33",
     "google/apiclient": "v2.2.3",
-    "twig/twig": "v2.11.3",
+    "twig/twig": "v2.14.11",
     "phpmailer/phpmailer": "v6.0.7",
     "mbostock/d3": "v3.5.17",
     "twbs/bootstrap": "v4.3.1"
